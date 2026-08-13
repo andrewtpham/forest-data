@@ -7,10 +7,10 @@ Geospatial data for US national forests, national parks, and trail routes.
 ```
 forest-data/
 ├── national-forests/   # Boundary and administrative data
-│   ├── FS_Administrative_Forest_simplified.json
-│   ├── NPS_Land_Resources_Division_Boundary_and_Tract_Data_Service.geojson
-│   ├── NPS_Land_Resources_Division_Boundary_simplified.json
-│   └── USFS_Administrative_Forest_simplified.json
+│   ├── fs-administrative-forest-simplified.json
+│   ├── nps-land-resources-division-boundary-and-tract-data-service.geojson
+│   ├── nps-land-resources-division-boundary-simplified.json
+│   └── usfs-administrative-forest-simplified.json
 └── trails/             # Downloadable GPX route files
     ├── pct-ca/         # PCT California sections
     ├── pct-or/         # PCT Oregon sections
