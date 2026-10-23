@@ -1,1 +1,1 @@
-*.geojson filter=lfs diff=lfs merge=lfs -text
+national-forests/nps-land-resources-division-boundary-and-tract-data-service.geojson filter=lfs diff=lfs merge=lfs -text
