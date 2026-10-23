@@ -1,6 +1,6 @@
 # forest-data
 
-Trail routes and boundary data for maps on [andrewpham.dev](https://andrewpham.dev). The GPX files are free to download. See [ATTRIBUTION.md](ATTRIBUTION.md) for where each file comes from.
+Trail routes and boundary data for maps. The GPX files are free to download. See [ATTRIBUTION.md](ATTRIBUTION.md) for where each file comes from.
 
 ## Project structure
 

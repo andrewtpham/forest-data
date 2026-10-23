@@ -6,10 +6,10 @@ The files in this repo come from several sources. Some are routes I drew myself,
 
 | File | Source |
 |------|--------|
-| `trails/gr20-corsica-2024.gpx` | Drawn by Andrew Pham in [MapOut](https://mapout.app) |
-| `trails/madeira-crossing-2026.gpx` | Drawn by Andrew Pham in MapOut |
-| `trails/peaks-of-the-balkans-2026.gpx` | Drawn by Andrew Pham in MapOut |
-| `trails/transylvania-50k-2025.gpx` | Drawn by Andrew Pham in MapOut |
+| `trails/gr20-corsica-2024.gpx` | Drawn by Andrew Pham |
+| `trails/madeira-crossing-2026.gpx` | Drawn by Andrew Pham |
+| `trails/peaks-of-the-balkans-2026.gpx` | Drawn by Andrew Pham |
+| `trails/transylvania-50k-2025.gpx` | Drawn by Andrew Pham |
 | `trails/tour-du-mont-blanc-2024.gpx` | Exported from [komoot](https://www.komoot.com) |
 | `trails/echappee-belle-traversee-nord-96k-2025.gpx` | [Trace de Trail](https://tracedetrail.fr/en/trace/288286) |
 | `trails/grossglockner-ultra-trail-110k-2026.gpx` | [Outdooractive](https://www.outdooractive.com/r/811494627) |
